@@ -188,7 +188,7 @@ body {
 }
 
 #hero button {
-    background-image: url("./img/stroke.png");
+    background-image: url("stroke.png");
     background-color: white;
     color: #0a0a0a;
     border: 0;
