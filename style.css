@@ -336,7 +336,7 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    background-image: url("./img/shoes\ back.jpg");
+    background-image: url("./shoes\ back.jpg");
     background-size: cover;
     height: 40vh;
     width: 100%;
@@ -392,7 +392,7 @@ button.white {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("./img/depositphotos_38238823-stock-illustration-seamless-doodle-children-toys-pattern.jpg");
+    background-image: url("./depositphotos_38238823-stock-illustration-seamless-doodle-children-toys-pattern.jpg");
     background-position: 20% 30%;
 
     background-color: #041e42;
@@ -513,7 +513,7 @@ footer .copyright {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    background-image: url("./img/shoes\ back.jpg");
+    background-image: url("./shoes\ back.jpg");
     background-size: cover;
     height: 40vh;
     width: 100%;
@@ -624,7 +624,7 @@ footer .copyright {
 
 #shop-hero.blog-header {
 
-    background-image: url("./img/680075.webp");
+    background-image: url("./680075.webp");
     height: 40vh;
     width: 100%;
     display: flex;
@@ -722,7 +722,7 @@ footer .copyright {
 }
 
 #shop-hero.about-header {
-    background-image: url("./img/The-Perfect-About-Us-Page-Feature-750x499.jpg");
+    background-image: url("./The-Perfect-About-Us-Page-Feature-750x499.jpg");
 }
 
 #about-head h2 {
@@ -749,7 +749,7 @@ footer .copyright {
 
 /* contact us  */
 #shop-hero.contact-header {
-    background-image: url("./img/contact-us-2-62fa2cc2edbaf-sej-1520x800.webp");
+    background-image: url("./contact-us-2-62fa2cc2edbaf-sej-1520x800.webp");
 }
 
 #contact-details {
@@ -972,7 +972,7 @@ button.contact-button {
 
 /* login page  */
 .bg-img{
-    background: url("./img/nUPjmD.jpg");
+    background: url("./nUPjmD.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;
